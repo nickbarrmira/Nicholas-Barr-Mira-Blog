@@ -35,7 +35,4 @@ The creation of this hyper-link-self-portrait reminded me of an article written 
 Works Cited
 
 Bates, M. (1989) “The Design of Browsing and Berrypicking Techniques for the Online Search Interface”
-
-
-
-[Hyper-Link-Self-Portrait]: (http://127.0.0.1:52554/index.html)    
+[Hyper-Link-Self-Portrait](http://127.0.0.1:52554/index.html)    
