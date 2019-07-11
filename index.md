@@ -13,3 +13,29 @@ Information Studies
 
 Carey, J. (2009). Technology and Ideology: The Case of the Telegraph 
 Dourish, P. (2015) Not The Internet, but This Internet: How Othernets Illuminate Our Feudal Internet. 5th Decennial Aarhus Conference on Critical Alternatives
+
+
+
+
+
+Nicholas Barr-Mira 
+Professor Ohara
+Information Studies 30
+11 July 2019
+
+Weblog #2
+
+My hyperlink project serves as a representation of me as a holistic person, and each image is significant of something I deem to be important to me. The hyper-text-self-portrait that I have created consists of three photos that in some way symbolize my values. The first photograph is a picture of me and my grandfather. The second photograph is quite literally a self-portrait as is the picture used for an identification card. The final photograph is a picture of myself in a football uniform. 
+The first photograph of me and my grandfather symbolizes the importance of family and faith in my life. The photograph was taken following my Confirmation, which is a Catholic sacrament that symbolizes the entrance into Catholic Adulthood. I consider myself to be a practicing Catholic, and the Catholic standards and values are very similar to the standards and values I hold myself to. The reason I chose my grandfather to represent a picture of my family is because he is the rock of my family. He was a man who represents what it means to sacrifice for family and put his family before himself. Throughout my life I have always been taught that I am nothing without family, and family is the only thing that can consistently be counted on. 
+The second photograph is the picture used on the identification card for my school. Although the image itself is not directly a representation of my education, the image is on a card that identifies me in my place of education. Education has always been of utmost importance to me because I believe education leads to opportunities and success. I also believe that education leads to a better world and a less impoverished world. Therefore, the more educated the world is as a whole, the safer and smarter place it will be. I also understand that the access to education I have had has been an absolute privilege. I do not take this privilege for granted at all which is why education is incredibly important to me. 
+The third photograph of myself in a football uniform represents the importance of sports, specifically football, in my life. Football has played an extremely important and influential role to me and my family. I have played football for as long as I can remember, and it has provided me with opportunities to express my talents and attend the school of my dreams. Football is something that my family loves and has dictated the circumstances of my intermediate families life in the recent past. My brother plays in the NFL, and without him, my family would not be in the stable situation we are in today.  
+The creation of this hyper-link-self-portrait reminded me of an article written by Maria J. Bates in which she discusses berrypicking. According to Bates, berrypicking can be understood as, “a new model of searching in online and other information systems.” (Bates 1) The article describes berrypicking as a complex way of researching on the internet. The paths to which we receive information is not from point A to B, but rather a system of retrieval using many different pathways. I feel as if I witnessed this and struggled with this very concept in the making of the self-portrait. 
+
+
+Works Cited
+
+Bates, M. (1989) “The Design of Browsing and Berrypicking Techniques for the Online Search Interface”
+
+
+
+Hyper-Link-Self-Portrait: http://127.0.0.1:52554/index.html 
