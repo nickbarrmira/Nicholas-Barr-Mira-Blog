@@ -18,6 +18,38 @@ Dourish, P. (2015) Not The Internet, but This Internet: How Othernets Illuminate
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nicholas Barr-Mira
+Information Studies 30 
+Professor O'hara
+18 July 2019
+
+Wbelog #3
+	Surveillance capitalism is the act of websites and internet sites stealing data from the user that is on their site, and using it for feedback on the type of user that is visiting their site. Online purchasing has changed the game of marketing and drastically affects the way products are marketed, as well as the intended audiences of advertisements. The power that the internet holds in terms of being able to find out personal information about their clients is immensely underestimated. Because of the convenience and easy access online users are granted, there is an extreme lack of care of  their internet safety and identity. 
+	This strongly relates to the complexity of the internet and the lack of knowledge of many internet users. Because there is such a lack of understanding of how the internet works, users  assume that their identity is safe, and they trust many of the websites that they are using. However, the terms and privacy of many websites are incredibly long and wordy, and have hidden loopholes in their terms that allow them to access personal information. All that is needed for permission to be granted to these websites is your approval through the clicking of a box. This happens to many internet users and is how accounts get hacked and information gets stolen. One specific way personal information is tracked is through the use of apps on smartphones. Many smartphone apps will require location services to be enabled along with access to camera, or at least make those features an option for enhanced use of the app. When discussing an example of an app tracking one of its users, Jennifer Valentino-Devries of the New York Times says, “An app on the device gathered her location information, which was then sold without her knowledge. It recorded her whereabouts as often as every two seconds, according to a database of more than a million phones in the New York area that was reviewed by The New York Times” (Valentino-Devries). Even without user’s permission, apps can track information if the terms and privacy policy is agreed to. Apps have the ability to track and receive personal and intimate details that one may not wish to have disclosed. Some companies state that the personal details of a person’s life is not the information they are looking for, rather they are looking for data that will help their marketing strategies. Although this is what companies may say, the information being received is still personal. App tracking and data tracking are incredibly sneaky and invasive ways personal information can be obtained, and app and internet users should be cautious of the apps and sites they visit in order to protect themselves. 
+
+
+
+
+Bibliography
+Optional: Jennifer Valentino-Devries, Natasha Singer, Michael h. Keller and Aaron Krolik. 2018. 
+Your Apps Know Where You Were Last Night, and They’re Not Keeping It Secret. New York Times.
+
+
+
+
 Nicholas Barr-Mira 
 Professor Ohara
 Information Studies 30
