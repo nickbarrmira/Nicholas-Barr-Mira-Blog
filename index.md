@@ -68,3 +68,20 @@ Works Cited
 
 Bates, M. (1989) “The Design of Browsing and Berrypicking Techniques for the Online Search Interface”
 [Hyper-Link-Self-Portrait](http://127.0.0.1:52554/index.html)    
+
+
+
+Nicholas Barr-Mira
+Professor Ohara
+Info Studies 30 
+25 July  2019 
+
+Weblog 
+
+	There are many difficult tasks that are involved with working and operating a webpage, and the people that are successful and completing these tasks are not compensated with what they deserve. There are people with a job similar to that of a construction worker or handyman when it comes to technology. This person will add text to websites, read just the design, make sure URLs are accurate, make sure the settings are updated to the latest software, etc. The people that are able to do these jobs are often scarce because the difficulty of the job. Even though there are not many people who can accomplish these tasks, the pay wage varies based on what the company or corporation wants to pay and how bad they need it. Another aspect of this job that increases the level of difficulty is working in accordance with the privacy terms of each website. Sometimes changing to much and accessing what one is not supposed violates a user agreement which can lead to a shutdown of the job. According to Mary Gray of the Los Angeles Times, “Such policies are not unique to AMT. Using Terms of Service and Participation Agreements as guidance for when — or whether — to pay people for work they have satisfactorily completed is standard practice in the crowdworking sphere.” The treatment and attitude towards these workers also needs to change. Their work is seen as merely a convenience, and the work and difficulty is not understood and appreciated. This is also what leads to the inconsistent wages of the services provided by crowdwork sites. Working for a crowdwork site can be discouraging and unpleasant a lot of the time because of the lack of respect for their jobs. There are no benefit plans, consistent wages, and infrastructure for the workers of crowdwork sites. The only thing that can lead to change the items listed above is a change in perception of the work done. 
+	The lack of respect and appreciation for the work done by people like Khan bewilders me. These people provide services that are incredibly necessary to the success and advancement of many sites. However, because there is a lack of knowledge about how the internet works, there is a lack of appreciation for the work done. Without the work of crowdwork sites, companies would find it incredibly difficult to fix the issues of their internet pages. The biggest issue is the lack of compensation and consistent benefits for these workers. Their work is valuable and vital to the success of many websites, and it should be shown through their wages and benefits. 
+
+
+
+Bibliography 
+Gray, M. (2016) Your Job is About to Get Taskified Los Angeles Times 
